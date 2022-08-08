@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sound-moto/static/css/main.073c9b0a.css",
-    "main.js": "/sound-moto/static/js/main.2f67396a.js",
+    "main.js": "/sound-moto/static/js/main.f6623c5f.js",
     "static/js/787.df440a26.chunk.js": "/sound-moto/static/js/787.df440a26.chunk.js",
     "index.html": "/sound-moto/index.html",
     "main.073c9b0a.css.map": "/sound-moto/static/css/main.073c9b0a.css.map",
-    "main.2f67396a.js.map": "/sound-moto/static/js/main.2f67396a.js.map",
+    "main.f6623c5f.js.map": "/sound-moto/static/js/main.f6623c5f.js.map",
     "787.df440a26.chunk.js.map": "/sound-moto/static/js/787.df440a26.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.2f67396a.js"
+    "static/js/main.f6623c5f.js"
   ]
 }
